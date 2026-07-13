@@ -1,5 +1,5 @@
 import streamlit as st
-from groq import Groq
+from groq import groq
 
 # ─────────────────────────────────────────────
 # CONFIG
